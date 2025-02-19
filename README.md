@@ -19,3 +19,5 @@
 **Run npm start to start the React app.
 
 **The app will be accessible on http://localhost:3000.
+
+##Both applications should be running.
