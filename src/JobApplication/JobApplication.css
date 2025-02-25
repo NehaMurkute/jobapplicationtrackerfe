@@ -1,0 +1,32 @@
+/* Add some basic styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    table th, table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+
+button {
+    padding: 5px 10px;
+    width:120px;
+    cursor: pointer;
+}
+
+input, select {
+    margin: 5px;
+}
+
+.input-common {    
+    padding: 4px;
+    font-size: 12px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+}
+
+    .input-common:focus {
+        border-color: blue;
+    }
